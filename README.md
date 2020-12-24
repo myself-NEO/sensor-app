@@ -30,14 +30,14 @@ $ git clone https://github.com/myself-NEO/sensor-app.git
 If you have all the prerequisites installed you should verify if your MongoDB is up.
 
 ```
-$ cd movies-app
+$ cd sensor-app
 $ cd server
 $ yarn install
 $ nodemon index.js
 ```
 
 ```
-$ cd movies-app
+$ cd sensor-app
 $ cd client
 $ yarn install
 $ yarn start
